@@ -50,4 +50,3 @@ if __name__ == '__main__':
     for nums in num_list:
         sort(nums)
         print(nums)
-0
